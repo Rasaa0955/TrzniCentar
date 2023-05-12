@@ -1,0 +1,7 @@
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\bin\Debug\TrzniCentar.exe.config
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\bin\Debug\TrzniCentar.exe
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\bin\Debug\TrzniCentar.pdb
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\obj\Debug\TrzniCentar.csproj.AssemblyReference.cache
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\obj\Debug\TrzniCentar.csproj.CoreCompileInputs.cache
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\obj\Debug\TrzniCentar.exe
+C:\Users\Raša\source\repos\TrzniCentar\TrzniCentar\obj\Debug\TrzniCentar.pdb
